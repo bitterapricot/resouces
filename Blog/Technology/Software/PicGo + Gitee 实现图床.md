@@ -119,7 +119,7 @@ PicGo是一个用于快速上传图片并获取图片 URL 链接的工具。PicG
 
 运行VSCode，并安装 PicGo 插件
 
-![](E:/Work/RefTest/Samples/Electron/resouces/Images/VsCode-PicGoInstall.png)
+![](https://gitee.com/kisswind/resouces/raw/master/Images/VsCode-PicGoInstall.png)
 
 
 
