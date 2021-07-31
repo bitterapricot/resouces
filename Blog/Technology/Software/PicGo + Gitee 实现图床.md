@@ -118,5 +118,17 @@ PicGo是一个用于快速上传图片并获取图片 URL 链接的工具。PicG
 [VsCode官网](https://code.visualstudio.com/Download)下载，安装。
 
 运行VSCode，并安装 PicGo 插件
+
+![](E:/Work/RefTest/Samples/Electron/resouces/Images/VsCode-PicGoInstall.png)
+
+
+
+
+### VSCode 图床使用
+
+默认 Ctrl+Alt+E 插入本地图片，插入后自动上传至 SM.SM(最大支持10M)，反应速度有点慢。
+也可进入 VSCode 设置进行 PicGo 图床设置。
+
+SM.SM 图床图片：
 ![VsCode-PicGoInstall](https://i.loli.net/2021/07/31/B359athbSJ1jT8i.png)
 
