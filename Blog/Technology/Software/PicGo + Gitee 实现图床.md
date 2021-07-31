@@ -109,14 +109,14 @@ PicGo是一个用于快速上传图片并获取图片 URL 链接的工具。PicG
 在编辑区正文中插入图片，选择本地图片，Typora会自动上传至 Gitee 并转换成图片URL。
 
 
+## VSCode 使用 PicoGo
 
+[VSCode](https://code.visualstudio.com/)是微软开发的一款轻量、开源且功能强大的代码编辑器，支持跨平台。
 
+### VSCode 安装
 
+[VsCode官网](https://code.visualstudio.com/Download)下载，安装。
 
-
-
-
-
-
-
+运行VSCode，并安装 PicGo 插件
+![VsCode-PicGoInstall](https://i.loli.net/2021/07/31/B359athbSJ1jT8i.png)
 
