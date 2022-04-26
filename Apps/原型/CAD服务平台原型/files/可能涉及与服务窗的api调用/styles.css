@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:680px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1056_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:620px;
+  height:352px;
+}
+#u1056 {
+  position:absolute;
+  left:60px;
+  top:48px;
+  width:620px;
+  height:352px;
+  font-size:18px;
+}
+#u1057 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:620px;
+  word-wrap:break-word;
+}
+#u1056_ann {
+  position:absolute;
+  left:673px;
+  top:44px;
+  width:1px;
+  height:1px;
+}
